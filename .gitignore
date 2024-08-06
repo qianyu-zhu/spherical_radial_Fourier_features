@@ -1,0 +1,7 @@
+__pycache__/
+datasets/*
+real_approx/*
+real_predict/*
+spectral_err/*
+plotting*/
+
