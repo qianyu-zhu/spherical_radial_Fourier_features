@@ -16,7 +16,7 @@ from tools.function_tools import *
 from tools.quadrature_tools import *
 from tools.visualization_tools import *
 from sklearn.metrics import accuracy_score
-from tools.dataset_tools import make_dataset, sample_dataset
+from tools.dataset_tools import make_dataset
 
 
 compute_err = True
